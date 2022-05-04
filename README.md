@@ -1,1 +1,2 @@
-> 内部自用集合集 ， 切勿乱拉库！
+# myscript
+This is an internal library. Please do not use it externally！
