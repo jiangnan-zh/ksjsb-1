@@ -1,2 +1,2 @@
 # myscript
-This is an internal library. Please do not use it externally！
+脚本维护不易,请不要到处传播
